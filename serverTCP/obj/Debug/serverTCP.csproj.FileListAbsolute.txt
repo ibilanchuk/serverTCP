@@ -1,0 +1,9 @@
+C:\Users\slavik\Desktop\serverTCP\serverTCP\bin\Debug\serverTCP.exe.config
+C:\Users\slavik\Desktop\serverTCP\serverTCP\bin\Debug\serverTCP.exe
+C:\Users\slavik\Desktop\serverTCP\serverTCP\bin\Debug\serverTCP.pdb
+C:\Users\slavik\Desktop\serverTCP\serverTCP\obj\Debug\serverTCP.Form1.resources
+C:\Users\slavik\Desktop\serverTCP\serverTCP\obj\Debug\serverTCP.Properties.Resources.resources
+C:\Users\slavik\Desktop\serverTCP\serverTCP\obj\Debug\serverTCP.csproj.GenerateResource.Cache
+C:\Users\slavik\Desktop\serverTCP\serverTCP\obj\Debug\serverTCP.exe
+C:\Users\slavik\Desktop\serverTCP\serverTCP\obj\Debug\serverTCP.pdb
+C:\Users\slavik\Desktop\serverTCP\serverTCP\obj\Debug\serverTCP.csprojResolveAssemblyReference.cache
